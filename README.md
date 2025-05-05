@@ -14,3 +14,9 @@ The dataset consists of login attempts, and the goal is to identify unusual patt
 1. Install the required Python libraries:
    ```bash
    pip install pandas scikit-learn matplotlib
+   
+2. Run the Python script:
+   
+ anomaly_detection.py
+
+3.View the generated plot and printed anomalies.
