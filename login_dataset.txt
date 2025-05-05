@@ -1,0 +1,6 @@
+timestamp,username,success
+2025-05-01 00:23:10,user1,True
+2025-05-01 01:45:32,user2,False
+2025-05-01 03:12:10,user1,True
+2025-05-01 06:07:45,user3,True
+2025-05-01 23:56:22,user4,False
